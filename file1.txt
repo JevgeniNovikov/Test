@@ -1,6 +1,6 @@
 new ed1
-<<<<<<< HEAD
-new ed2 remote
-=======
-new ed2 local
->>>>>>> c9bafc8 (local changes)
+
+var1 new ed2 remote
+
+var2 new ed2 local
+
