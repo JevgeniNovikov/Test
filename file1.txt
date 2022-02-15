@@ -1,2 +1,2 @@
 new ed1
-new ed2
+new ed2 remote
