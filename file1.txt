@@ -1,6 +1,0 @@
-new ed1
-
-var1 new ed2 remote
-
-var2 new ed2 local
-
